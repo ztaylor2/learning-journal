@@ -1,0 +1,5 @@
+# LJ Code 201 - Day 13
+
+Today we learned about how local storage works in HTML5.  Local storage is a powerful way to store data locally on a machine.  The web browser takes the data from the website that has been set to store and stores it in its files.  This way, if the site goes down of the computer dies, the data stored in local storage will still be there.  To put data into local storage you would use this JS code: localStorage.key = JSON.stringify(stuff);.  You have to use the stringify command to turn the variable into a string.  This is because data stored in local storage is always a string.  Then, to get stuff out of local storage you use this JS code: stuff = JSON.parse(localStorage.key);.  You have to use the parse command because the data will be stored in a string in local storage.  
+
+I found all of this very interesting and cool.  It is the first time I have built anything that could store data after closing the window.  I'm looking forward to learning how to do that with a database.  
