@@ -1,0 +1,3 @@
+# LJ Code 201 - Day 13
+
+On friday we got our groups set up and we started to prepare for our final project.  We developed a good idea of what we want to get done and what we want our final project to look like.  We are building an algorithm teaching application that will visually walk the user through how a particular algorithm works.  So far our plan is to build an input field where the user can input a couple numbers, the application will then take these inputs and assign them to the height of HTML/CSS elements.  We will then use the piece by piece logic of the algorithm to manipulate the elements step by step.  It's definitely sounds like it might be challenging but if we can get it to work properly it will be awesome.  
