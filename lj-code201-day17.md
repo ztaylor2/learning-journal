@@ -1,0 +1,3 @@
+# LJ Code 201 - Day 17
+
+Today we finished a lot of work on our algorithm teaching application.  The application is very close to being fully complete, we just have to clean up a few things and make sure everything is connected properly.  We also should reorganize our files.  Over the past week I've refined my knowledge of event handlers and listeners, Git workflow, CSS, JavaScript logic, and algorithms.  Building an application that teaches algorithms has been a great way for me to learn more about algorithms.  I have an in depth understanding of selection sort, bubble sort, binary search, linear search, and insertion sort.  I look forward to expanding that knowledge.  
