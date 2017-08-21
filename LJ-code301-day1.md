@@ -1,7 +1,7 @@
-# LJ Code 301 - Day 1
+# LJ Code 301 - Day 3
 
-###
+***
 
-Today we built responsive wed design functionality into a website.  I'd had a little bit of previous exposer to RWD, but it was great seeing how it is actually implemented professionally.  I am definitely looking forward to building this type of functionality into future websites.  
+Today our lab covered the basic components that go into a jQuery SPA.  It was a difficult but rewarding lab.  The part we struggled on the most was adding an event listener to the entire section, then pointing it towards specific elements in that section with an argument in the event listener.  
 
-We also went over MVC which was interesting.  I still have a lot of questions about servers and databases that I look forward to getting answers to.  
+After struggling through the lab I was able to build the same functionality into my portfolio fairly easily.  It is pretty cool how jQuery uses hide and show to build tabs.  All in all it was a good day of learning the basics of SPAs with jQuery.  
